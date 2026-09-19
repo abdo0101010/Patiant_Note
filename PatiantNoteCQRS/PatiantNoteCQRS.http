@@ -1,0 +1,6 @@
+@PatiantNoteCQRS_HostAddress = http://localhost:5114
+
+GET {{PatiantNoteCQRS_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
