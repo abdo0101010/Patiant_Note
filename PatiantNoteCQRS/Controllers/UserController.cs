@@ -1,5 +1,6 @@
 ﻿using MediatR;
 using Microsoft.AspNetCore.Mvc;
+using PatiantNoteCQRS._َqueries;
 using PatiantNoteCQRS.Commands;
 using PatiantNoteCQRS.Models;
 
@@ -13,7 +14,7 @@ namespace PatiantNoteCQRS.Controllers
         {
             _Mediator = mediator;
         }
-        [HttpPost("AddUser")]
+        [HttpPost(Routes.Route.UserRoutes.create)]
 
         public async Task<User> AddUser([FromBody] AddUserCommand command)
         {
@@ -21,5 +22,19 @@ namespace PatiantNoteCQRS.Controllers
             return await _Mediator.Send(command);
            
         }
+
+        [HttpGet(Routes.Route.UserRoutes.baseurl)]
+        public async Task<List<User>> ReadUsers()
+        {
+            var query = new ReadUsersQuery();
+            return await _Mediator.Send(query);
+
+        }
+        [HttpPut(Routes.Route.UserRoutes.update)]
+        public async Task<IActionResult> UpdateUser([FromBody] UpdateUserCommand UpdatedUser)
+        {
+            await _Mediator.Send(UpdatedUser);
+            return Ok();
+        } 
     }
 }

@@ -8,5 +8,6 @@ namespace PatiantNoteCQRS.Interfaces
         public Task<User> GetUserById(int id);
 
         public Task<List<User>> GetAllUsers();
+        public Task UpdateUser(int id, User User);
     }
 }
