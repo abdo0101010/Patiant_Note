@@ -21,7 +21,7 @@ builder.Services.AddDbContext<MedicalPassportContext>(option=>
 option.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
 builder.Services.AddMediatR(cfg => cfg.RegisterServicesFromAssembly(typeof(Program).Assembly));
-builder.Services.AddTransient(typeof(IPipelineBehavior<,>), typeof(requestpipeline<,>));
+builder.Services.AddTransient(typeof(IPipelineBehavior<,>), typeof(Requestpipeline<,>));
 builder.Services.AddValidatorsFromAssembly(typeof(Program).Assembly);
 builder.Services.AddAuthentication(NegotiateDefaults.AuthenticationScheme)
    .AddNegotiate();

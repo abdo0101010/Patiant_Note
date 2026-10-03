@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\AbdoA\\source\\repos\\PatiantNoteCQRS\\PatiantNoteCQRS\\PatiantNoteCQRS.csproj": {}
+    "C:\\Users\\AbdoA\\source\\repos\\PatiantNoteCQRS\\Patiant_Note\\PatiantNoteCQRS\\PatiantNoteCQRS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\AbdoA\\source\\repos\\PatiantNoteCQRS\\PatiantNoteCQRS\\PatiantNoteCQRS.csproj": {
+    "C:\\Users\\AbdoA\\source\\repos\\PatiantNoteCQRS\\Patiant_Note\\PatiantNoteCQRS\\PatiantNoteCQRS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\AbdoA\\source\\repos\\PatiantNoteCQRS\\PatiantNoteCQRS\\PatiantNoteCQRS.csproj",
+        "projectUniqueName": "C:\\Users\\AbdoA\\source\\repos\\PatiantNoteCQRS\\Patiant_Note\\PatiantNoteCQRS\\PatiantNoteCQRS.csproj",
         "projectName": "PatiantNoteCQRS",
-        "projectPath": "C:\\Users\\AbdoA\\source\\repos\\PatiantNoteCQRS\\PatiantNoteCQRS\\PatiantNoteCQRS.csproj",
+        "projectPath": "C:\\Users\\AbdoA\\source\\repos\\PatiantNoteCQRS\\Patiant_Note\\PatiantNoteCQRS\\PatiantNoteCQRS.csproj",
         "packagesPath": "C:\\Users\\AbdoA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\AbdoA\\source\\repos\\PatiantNoteCQRS\\PatiantNoteCQRS\\obj\\",
+        "outputPath": "C:\\Users\\AbdoA\\source\\repos\\PatiantNoteCQRS\\Patiant_Note\\PatiantNoteCQRS\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

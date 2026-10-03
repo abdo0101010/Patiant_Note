@@ -21,9 +21,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Handler\QueriesHandler\" />
     <Folder Include="Models\" />
-    <Folder Include="َqueries\" />
   </ItemGroup>
 
 </Project>

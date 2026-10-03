@@ -1,8 +1,28 @@
 [
   {
     "ContainingType": "PatiantNoteCQRS.Controllers.UserController",
+    "Method": "ReadUsers",
+    "RelativePath": "User",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[PatiantNoteCQRS.Models.User, PatiantNoteCQRS, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "PatiantNoteCQRS.Controllers.UserController",
     "Method": "AddUser",
-    "RelativePath": "AddUser",
+    "RelativePath": "User/create",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -24,6 +44,22 @@
         "StatusCode": 200
       }
     ]
+  },
+  {
+    "ContainingType": "PatiantNoteCQRS.Controllers.UserController",
+    "Method": "UpdateUser",
+    "RelativePath": "User/update",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "UpdatedUser",
+        "Type": "PatiantNoteCQRS.Commands.UpdateUserCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
   },
   {
     "ContainingType": "PatiantNoteCQRS.Controllers.WeatherForecastController",

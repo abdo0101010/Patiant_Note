@@ -1,0 +1,271 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AbdoA\\source\\repos\\PatiantNoteCQRS\\Patiant_Note\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C62D5D51-1235-A36D-8627-86F4C12BB243}|PatiantNoteCQRS\\PatiantNoteCQRS.csproj|c:\\users\\abdoa\\source\\repos\\patiantnotecqrs\\patiant_note\\patiantnotecqrs\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C62D5D51-1235-A36D-8627-86F4C12BB243}|PatiantNoteCQRS\\PatiantNoteCQRS.csproj|solutionrelative:patiantnotecqrs\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C62D5D51-1235-A36D-8627-86F4C12BB243}|PatiantNoteCQRS\\PatiantNoteCQRS.csproj|c:\\users\\abdoa\\source\\repos\\patiantnotecqrs\\patiant_note\\patiantnotecqrs\\sevices\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C62D5D51-1235-A36D-8627-86F4C12BB243}|PatiantNoteCQRS\\PatiantNoteCQRS.csproj|solutionrelative:patiantnotecqrs\\sevices\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C62D5D51-1235-A36D-8627-86F4C12BB243}|PatiantNoteCQRS\\PatiantNoteCQRS.csproj|c:\\users\\abdoa\\source\\repos\\patiantnotecqrs\\patiant_note\\patiantnotecqrs\\interfaces\\iuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C62D5D51-1235-A36D-8627-86F4C12BB243}|PatiantNoteCQRS\\PatiantNoteCQRS.csproj|solutionrelative:patiantnotecqrs\\interfaces\\iuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C62D5D51-1235-A36D-8627-86F4C12BB243}|PatiantNoteCQRS\\PatiantNoteCQRS.csproj|c:\\users\\abdoa\\source\\repos\\patiantnotecqrs\\patiant_note\\patiantnotecqrs\\extention\\globalexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C62D5D51-1235-A36D-8627-86F4C12BB243}|PatiantNoteCQRS\\PatiantNoteCQRS.csproj|solutionrelative:patiantnotecqrs\\extention\\globalexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C62D5D51-1235-A36D-8627-86F4C12BB243}|PatiantNoteCQRS\\PatiantNoteCQRS.csproj|c:\\users\\abdoa\\source\\repos\\patiantnotecqrs\\patiant_note\\patiantnotecqrs\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C62D5D51-1235-A36D-8627-86F4C12BB243}|PatiantNoteCQRS\\PatiantNoteCQRS.csproj|solutionrelative:patiantnotecqrs\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C62D5D51-1235-A36D-8627-86F4C12BB243}|PatiantNoteCQRS\\PatiantNoteCQRS.csproj|c:\\users\\abdoa\\source\\repos\\patiantnotecqrs\\patiant_note\\patiantnotecqrs\\handler\\commandshandler\\updateuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C62D5D51-1235-A36D-8627-86F4C12BB243}|PatiantNoteCQRS\\PatiantNoteCQRS.csproj|solutionrelative:patiantnotecqrs\\handler\\commandshandler\\updateuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C62D5D51-1235-A36D-8627-86F4C12BB243}|PatiantNoteCQRS\\PatiantNoteCQRS.csproj|c:\\users\\abdoa\\source\\repos\\patiantnotecqrs\\patiant_note\\patiantnotecqrs\\commands\\updateusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C62D5D51-1235-A36D-8627-86F4C12BB243}|PatiantNoteCQRS\\PatiantNoteCQRS.csproj|solutionrelative:patiantnotecqrs\\commands\\updateusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C62D5D51-1235-A36D-8627-86F4C12BB243}|PatiantNoteCQRS\\PatiantNoteCQRS.csproj|c:\\users\\abdoa\\source\\repos\\patiantnotecqrs\\patiant_note\\patiantnotecqrs\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C62D5D51-1235-A36D-8627-86F4C12BB243}|PatiantNoteCQRS\\PatiantNoteCQRS.csproj|solutionrelative:patiantnotecqrs\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C62D5D51-1235-A36D-8627-86F4C12BB243}|PatiantNoteCQRS\\PatiantNoteCQRS.csproj|c:\\users\\abdoa\\source\\repos\\patiantnotecqrs\\patiant_note\\patiantnotecqrs\\models\\medicalpassportcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C62D5D51-1235-A36D-8627-86F4C12BB243}|PatiantNoteCQRS\\PatiantNoteCQRS.csproj|solutionrelative:patiantnotecqrs\\models\\medicalpassportcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C62D5D51-1235-A36D-8627-86F4C12BB243}|PatiantNoteCQRS\\PatiantNoteCQRS.csproj|c:\\users\\abdoa\\source\\repos\\patiantnotecqrs\\patiant_note\\patiantnotecqrs\\handler\\querieshandler\\readusersqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C62D5D51-1235-A36D-8627-86F4C12BB243}|PatiantNoteCQRS\\PatiantNoteCQRS.csproj|solutionrelative:patiantnotecqrs\\handler\\querieshandler\\readusersqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C62D5D51-1235-A36D-8627-86F4C12BB243}|PatiantNoteCQRS\\PatiantNoteCQRS.csproj|c:\\users\\abdoa\\source\\repos\\patiantnotecqrs\\patiant_note\\patiantnotecqrs\\commands\\addusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C62D5D51-1235-A36D-8627-86F4C12BB243}|PatiantNoteCQRS\\PatiantNoteCQRS.csproj|solutionrelative:patiantnotecqrs\\commands\\addusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C62D5D51-1235-A36D-8627-86F4C12BB243}|PatiantNoteCQRS\\PatiantNoteCQRS.csproj|c:\\users\\abdoa\\source\\repos\\patiantnotecqrs\\patiant_note\\patiantnotecqrs\\controllers\\routes\\route.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C62D5D51-1235-A36D-8627-86F4C12BB243}|PatiantNoteCQRS\\PatiantNoteCQRS.csproj|solutionrelative:patiantnotecqrs\\controllers\\routes\\route.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C62D5D51-1235-A36D-8627-86F4C12BB243}|PatiantNoteCQRS\\PatiantNoteCQRS.csproj|c:\\users\\abdoa\\source\\repos\\patiantnotecqrs\\patiant_note\\patiantnotecqrs\\\u064Equeries\\readusersquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C62D5D51-1235-A36D-8627-86F4C12BB243}|PatiantNoteCQRS\\PatiantNoteCQRS.csproj|solutionrelative:patiantnotecqrs\\\u064Equeries\\readusersquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C62D5D51-1235-A36D-8627-86F4C12BB243}|PatiantNoteCQRS\\PatiantNoteCQRS.csproj|c:\\users\\abdoa\\source\\repos\\patiantnotecqrs\\patiant_note\\patiantnotecqrs\\pipelinebehaviours\\requestpipeline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C62D5D51-1235-A36D-8627-86F4C12BB243}|PatiantNoteCQRS\\PatiantNoteCQRS.csproj|solutionrelative:patiantnotecqrs\\pipelinebehaviours\\requestpipeline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C62D5D51-1235-A36D-8627-86F4C12BB243}|PatiantNoteCQRS\\PatiantNoteCQRS.csproj|c:\\users\\abdoa\\source\\repos\\patiantnotecqrs\\patiant_note\\patiantnotecqrs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C62D5D51-1235-A36D-8627-86F4C12BB243}|PatiantNoteCQRS\\PatiantNoteCQRS.csproj|solutionrelative:patiantnotecqrs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\AbdoA\\source\\repos\\PatiantNoteCQRS\\Patiant_Note\\PatiantNoteCQRS\\Models\\Patient.cs",
+              "RelativeDocumentMoniker": "PatiantNoteCQRS\\Models\\Patient.cs",
+              "ToolTip": "C:\\Users\\AbdoA\\source\\repos\\PatiantNoteCQRS\\Patiant_Note\\PatiantNoteCQRS\\Models\\Patient.cs",
+              "RelativeToolTip": "PatiantNoteCQRS\\Models\\Patient.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA5wBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T19:11:12.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\AbdoA\\source\\repos\\PatiantNoteCQRS\\Patiant_Note\\PatiantNoteCQRS\\sevices\\UserService.cs",
+              "RelativeDocumentMoniker": "PatiantNoteCQRS\\sevices\\UserService.cs",
+              "ToolTip": "C:\\Users\\AbdoA\\source\\repos\\PatiantNoteCQRS\\Patiant_Note\\PatiantNoteCQRS\\sevices\\UserService.cs",
+              "RelativeToolTip": "PatiantNoteCQRS\\sevices\\UserService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T18:58:32.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\AbdoA\\source\\repos\\PatiantNoteCQRS\\Patiant_Note\\PatiantNoteCQRS\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "PatiantNoteCQRS\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\AbdoA\\source\\repos\\PatiantNoteCQRS\\Patiant_Note\\PatiantNoteCQRS\\Controllers\\UserController.cs",
+              "RelativeToolTip": "PatiantNoteCQRS\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T18:25:33.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ReadUsersQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\AbdoA\\source\\repos\\PatiantNoteCQRS\\Patiant_Note\\PatiantNoteCQRS\\Handler\\QueriesHandler\\ReadUsersQueryHandler.cs",
+              "RelativeDocumentMoniker": "PatiantNoteCQRS\\Handler\\QueriesHandler\\ReadUsersQueryHandler.cs",
+              "ToolTip": "C:\\Users\\AbdoA\\source\\repos\\PatiantNoteCQRS\\Patiant_Note\\PatiantNoteCQRS\\Handler\\QueriesHandler\\ReadUsersQueryHandler.cs",
+              "RelativeToolTip": "PatiantNoteCQRS\\Handler\\QueriesHandler\\ReadUsersQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T18:53:51.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ReadUsersQuery.cs",
+              "DocumentMoniker": "C:\\Users\\AbdoA\\source\\repos\\PatiantNoteCQRS\\Patiant_Note\\PatiantNoteCQRS\\\u064Equeries\\ReadUsersQuery.cs",
+              "RelativeDocumentMoniker": "PatiantNoteCQRS\\\u064Equeries\\ReadUsersQuery.cs",
+              "ToolTip": "C:\\Users\\AbdoA\\source\\repos\\PatiantNoteCQRS\\Patiant_Note\\PatiantNoteCQRS\\\u064Equeries\\ReadUsersQuery.cs",
+              "RelativeToolTip": "PatiantNoteCQRS\\\u064Equeries\\ReadUsersQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T18:52:29.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GlobalExceptionHandler.cs",
+              "DocumentMoniker": "C:\\Users\\AbdoA\\source\\repos\\PatiantNoteCQRS\\Patiant_Note\\PatiantNoteCQRS\\extention\\GlobalExceptionHandler.cs",
+              "RelativeDocumentMoniker": "PatiantNoteCQRS\\extention\\GlobalExceptionHandler.cs",
+              "ToolTip": "C:\\Users\\AbdoA\\source\\repos\\PatiantNoteCQRS\\Patiant_Note\\PatiantNoteCQRS\\extention\\GlobalExceptionHandler.cs",
+              "RelativeToolTip": "PatiantNoteCQRS\\extention\\GlobalExceptionHandler.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T18:12:04.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IUser.cs",
+              "DocumentMoniker": "C:\\Users\\AbdoA\\source\\repos\\PatiantNoteCQRS\\Patiant_Note\\PatiantNoteCQRS\\Interfaces\\IUser.cs",
+              "RelativeDocumentMoniker": "PatiantNoteCQRS\\Interfaces\\IUser.cs",
+              "ToolTip": "C:\\Users\\AbdoA\\source\\repos\\PatiantNoteCQRS\\Patiant_Note\\PatiantNoteCQRS\\Interfaces\\IUser.cs",
+              "RelativeToolTip": "PatiantNoteCQRS\\Interfaces\\IUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T19:21:36.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MedicalPassportContext.cs",
+              "DocumentMoniker": "C:\\Users\\AbdoA\\source\\repos\\PatiantNoteCQRS\\Patiant_Note\\PatiantNoteCQRS\\Models\\MedicalPassportContext.cs",
+              "RelativeDocumentMoniker": "PatiantNoteCQRS\\Models\\MedicalPassportContext.cs",
+              "ToolTip": "C:\\Users\\AbdoA\\source\\repos\\PatiantNoteCQRS\\Patiant_Note\\PatiantNoteCQRS\\Models\\MedicalPassportContext.cs",
+              "RelativeToolTip": "PatiantNoteCQRS\\Models\\MedicalPassportContext.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAUwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T18:58:45.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UpdateUserCommand.cs",
+              "DocumentMoniker": "C:\\Users\\AbdoA\\source\\repos\\PatiantNoteCQRS\\Patiant_Note\\PatiantNoteCQRS\\Commands\\UpdateUserCommand.cs",
+              "RelativeDocumentMoniker": "PatiantNoteCQRS\\Commands\\UpdateUserCommand.cs",
+              "ToolTip": "C:\\Users\\AbdoA\\source\\repos\\PatiantNoteCQRS\\Patiant_Note\\PatiantNoteCQRS\\Commands\\UpdateUserCommand.cs",
+              "RelativeToolTip": "PatiantNoteCQRS\\Commands\\UpdateUserCommand.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T19:11:00.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UpdateUserHandler.cs",
+              "DocumentMoniker": "C:\\Users\\AbdoA\\source\\repos\\PatiantNoteCQRS\\Patiant_Note\\PatiantNoteCQRS\\Handler\\CommandsHandler\\UpdateUserHandler.cs",
+              "RelativeDocumentMoniker": "PatiantNoteCQRS\\Handler\\CommandsHandler\\UpdateUserHandler.cs",
+              "ToolTip": "C:\\Users\\AbdoA\\source\\repos\\PatiantNoteCQRS\\Patiant_Note\\PatiantNoteCQRS\\Handler\\CommandsHandler\\UpdateUserHandler.cs",
+              "RelativeToolTip": "PatiantNoteCQRS\\Handler\\CommandsHandler\\UpdateUserHandler.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAIwBoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T19:13:03.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\AbdoA\\source\\repos\\PatiantNoteCQRS\\Patiant_Note\\PatiantNoteCQRS\\Models\\User.cs",
+              "RelativeDocumentMoniker": "PatiantNoteCQRS\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\AbdoA\\source\\repos\\PatiantNoteCQRS\\Patiant_Note\\PatiantNoteCQRS\\Models\\User.cs",
+              "RelativeToolTip": "PatiantNoteCQRS\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T19:26:25.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AddUserCommand.cs",
+              "DocumentMoniker": "C:\\Users\\AbdoA\\source\\repos\\PatiantNoteCQRS\\Patiant_Note\\PatiantNoteCQRS\\Commands\\AddUserCommand.cs",
+              "RelativeDocumentMoniker": "PatiantNoteCQRS\\Commands\\AddUserCommand.cs",
+              "ToolTip": "C:\\Users\\AbdoA\\source\\repos\\PatiantNoteCQRS\\Patiant_Note\\PatiantNoteCQRS\\Commands\\AddUserCommand.cs",
+              "RelativeToolTip": "PatiantNoteCQRS\\Commands\\AddUserCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T18:22:54.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Route.cs",
+              "DocumentMoniker": "C:\\Users\\AbdoA\\source\\repos\\PatiantNoteCQRS\\Patiant_Note\\PatiantNoteCQRS\\Controllers\\Routes\\Route.cs",
+              "RelativeDocumentMoniker": "PatiantNoteCQRS\\Controllers\\Routes\\Route.cs",
+              "ToolTip": "C:\\Users\\AbdoA\\source\\repos\\PatiantNoteCQRS\\Patiant_Note\\PatiantNoteCQRS\\Controllers\\Routes\\Route.cs",
+              "RelativeToolTip": "PatiantNoteCQRS\\Controllers\\Routes\\Route.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T18:59:31.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\AbdoA\\source\\repos\\PatiantNoteCQRS\\Patiant_Note\\PatiantNoteCQRS\\Program.cs",
+              "RelativeDocumentMoniker": "PatiantNoteCQRS\\Program.cs",
+              "ToolTip": "C:\\Users\\AbdoA\\source\\repos\\PatiantNoteCQRS\\Patiant_Note\\PatiantNoteCQRS\\Program.cs",
+              "RelativeToolTip": "PatiantNoteCQRS\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAjwBEAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T18:11:37.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "requestpipeline.cs",
+              "DocumentMoniker": "C:\\Users\\AbdoA\\source\\repos\\PatiantNoteCQRS\\Patiant_Note\\PatiantNoteCQRS\\PipelineBehaviours\\requestpipeline.cs",
+              "RelativeDocumentMoniker": "PatiantNoteCQRS\\PipelineBehaviours\\requestpipeline.cs",
+              "ToolTip": "C:\\Users\\AbdoA\\source\\repos\\PatiantNoteCQRS\\Patiant_Note\\PatiantNoteCQRS\\PipelineBehaviours\\requestpipeline.cs",
+              "RelativeToolTip": "PatiantNoteCQRS\\PipelineBehaviours\\requestpipeline.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T18:10:29.27Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

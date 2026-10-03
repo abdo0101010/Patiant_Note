@@ -3,10 +3,10 @@ using MediatR;
 
 namespace PatiantNoteCQRS.PipelineBehaviours
 {
-    public class requestpipeline<TRequest, TResponse> : IPipelineBehavior<TRequest, TResponse> where TRequest : IRequest<TResponse>
+    public class Requestpipeline<TRequest, TResponse> : IPipelineBehavior<TRequest, TResponse> where TRequest : IRequest<TResponse>
     {
         private readonly IEnumerable<IValidator<TRequest>> _validators;
-        public requestpipeline(IEnumerable<IValidator<TRequest>> validators)
+        public Requestpipeline(IEnumerable<IValidator<TRequest>> validators)
         {
             _validators = validators;
         }

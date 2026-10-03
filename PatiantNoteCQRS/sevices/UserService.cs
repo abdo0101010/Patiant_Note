@@ -25,7 +25,24 @@ namespace PatiantNoteCQRS.sevices
 
         public async Task<User> GetUserById(int id)
         {
+            if(id>0)
             return await medicalPassportContext.Users.FirstOrDefaultAsync(x => x.UserId == id);
+            else
+                return null;
+        }
+        public async Task UpdateUser(int id, User user)
+        {
+            var existingUser = await medicalPassportContext.Users.FirstOrDefaultAsync(x => x.UserId == id);
+
+            if (existingUser != null && user != null)
+            {
+                existingUser.FullName = user.FullName;
+                existingUser.PhoneNumber = user.PhoneNumber;
+                existingUser.Email = user.Email;
+                existingUser.PasswordHash = user.PasswordHash;
+                await medicalPassportContext.SaveChangesAsync();
+            }
         }
     }
+    
 }
